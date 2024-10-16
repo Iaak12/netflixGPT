@@ -1,0 +1,2 @@
+export const LOGO = "https://images.ctfassets.net/y2ske730sjqp/6bhPChRFLRxc17sR8jgKbe/6fa1c6e6f37acdc97ff635cf16ba6fb3/Logos-Readability-Netflix-logo.png";
+export const USER_AVATAR = "https://media.licdn.com/dms/image/v2/D5603AQHQLMO3HXq5mg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725811168311?e=1734566400&v=beta&t=KYn69WfUb9Cz6a1menGjQdLnv3S8dFQAmAdVhOvlygI";
